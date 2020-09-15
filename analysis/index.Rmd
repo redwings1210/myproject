@@ -10,5 +10,8 @@ editor_options:
 
 Welcome to my research website.
 
-data("ToothGrowth")
-head(ToothGrowth)
+Welcome to my first workflowr website!
+
+Does this work?
+
+* [Teeth growth analysis](teeth.html)
